@@ -44,7 +44,7 @@ src/
   ranking.py                   Percentile scoring + weighted composite score
   charts.py                    Plotly figure builders for the dashboard
   report.py                    Plain-English explanation of a stock's score
-notebooks/experiment.md      Running notes on model iterations
+docs/experiment-log.md       Running notes on model iterations
 .streamlit/config.toml       Dashboard theme (dark)
 ```
 
